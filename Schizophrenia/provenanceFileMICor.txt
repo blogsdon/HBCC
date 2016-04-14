@@ -3,5 +3,5 @@ syn5570061,FALSE
 syn5570075,FALSE
 https://github.com/blogsdon/metanetwork/commit/549fe5e83e211b326362cb4371b9b2e1f4949c4a,TRUE
 https://github.com/blogsdon/metanetworkSynapse/commit/09c8ef074776d94dea797257c480f418e913ff88,TRUE
-https://github.com/blogsdon/CMC/blob/95dbe1a051d25f424bfb1af8eaa1ef4e02244361/metanetworksV2/Bipolar/ACC/cmcBipolarMICorSubmission.sh,TRUE
+https://github.com/blogsdon/HBCC/blob/e67edee325250b558a8c60aad0f566e26bed402e/Schizophrenia/hbccSchizophreniaMICorSubmission.sh,TRUE
 https://github.com/blogsdon/HBCC/blob/2452762389064ff6e2b80dfff4717e2554022e88/processData.R,TRUE
